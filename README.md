@@ -1,2 +1,8 @@
 # Library-Management-System-MASM
-A console-based Library Management System implemented in MASM using Irvine32 library.
+ A project made in assembly code that allows users to:
+
+Add Librarians
+View Librarians
+Add Books
+View Books
+Remove Books
