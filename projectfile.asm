@@ -22,9 +22,9 @@ INCLUDE Irvine32.inc
     EXIT_MSG   BYTE 0AH
     BYTE "Thank You!",0dh, 0ah
     BYTE "Project Members:",0dh, 0ah
-    BYTE "Umer Siddiqui(23K-0644)",0dh, 0ah
-    BYTE "Ahmed Iltaf(22K-4384)",0dh, 0ah
-    BYTE "Sajjad Ahmed(23K-0754)",0
+    BYTE "Umair Gul(24k-6124)",0dh, 0ah
+    BYTE "Yusuf Vohra(23k-0079)",0dh, 0ah
+    BYTE "Safi ur Rehman(24k-0031)",0
    
     ; New messages
     EMP_REGISTER_SUCCESS BYTE "Librarian registered successfully!",0
